@@ -1,4 +1,4 @@
-🔐#Full Stack Authentication System
+🔐 Full Stack Authentication System
 
 A simple full-stack authentication system built using React (Frontend) and Flask (Backend) with JWT-based authentication.
 
@@ -61,5 +61,6 @@ npm start
 
 👩‍💻 Author
 Brahmi Matey
+
 
 
